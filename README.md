@@ -8,12 +8,12 @@
 출처: https://blog.naver.com/smlee27629/222564913167
 
 ---
-**먼저 해주세요!**
+## **먼저 해주세요!**
 
 0. 본 Repo의 QuickShare.bat 을 **관리자 권한**으로 실행
 
 ---
-**시작프로그램 등록**
+## **시작프로그램 등록**
 
 1. 윈도우 키 + R (실행) 창에서 **control schedtasks** 입력
 ![image](https://user-images.githubusercontent.com/22024308/147380631-55523ec3-0c44-45ec-a101-2b7942131470.png)
@@ -36,7 +36,7 @@
 ![image](https://user-images.githubusercontent.com/22024308/147380608-aa33197c-8521-4269-b797-2c15427f7c3c.png)
 
 ---
-**퀵쉐어 설치 방법**
+## **퀵쉐어 설치 방법**
 
 
 1. 엣지 브라우저로 [store.rg-adguard.net](https://store.rg-adguard.net/) 사이트 방문
@@ -52,7 +52,7 @@
 ![image](https://user-images.githubusercontent.com/22024308/147380220-cc86aac1-a418-42ff-a941-ef444c76a9d0.png)
 
 ---
-**블루투스 드라이버 또는 su3client를 업데이트 해야한다는 창이 뜰 경우**
+## **블루투스 드라이버 또는 su3client를 업데이트 해야한다는 창이 뜰 경우**
 
 1. 확인 메시지를 눌러서 Samsung Update 프로그램 설치
 
