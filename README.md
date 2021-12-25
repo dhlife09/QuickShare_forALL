@@ -15,7 +15,7 @@
 
 ## **시작프로그램 등록**
 
-1. 윈도우 키 + R (실행) 창에서 **control schedtasks** 입력
+1. 윈도우 키 + R (실행) 창에서 **control schedtasks** 입력해서 작업 스케쥴러 실행
 ![image](https://user-images.githubusercontent.com/22024308/147380631-55523ec3-0c44-45ec-a101-2b7942131470.png)
 2. 작업 스케줄러 라이브러리 -> 작업 만들기
 ![image](https://user-images.githubusercontent.com/22024308/147380513-fbb6973f-cad2-42da-922b-371355748db6.png)
